@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot Form</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#chatbotForm').submit(function (event) {
+                event.preventDefault();
+                var question = $('#question').val();
+
+                $.ajax({
+                    url: 'http://localhost/ChatBot_teste/app/chatbot.php',
+                    type: 'POST',
+                    data: { question: question },
+                    dataType: 'json',
+                    success: function (response) {
+                        console.log(response);
+                        var answer = response.response;
+                        $('#response').text(answer);
+                    },
+                    error: function (xhr, status, error) {
+                        var errorMessage = 'Erro:' + error;
+                        $('#response').text(errorMessage);
+                        console.log(errorMessage);
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+<h1>Chatbot</h1>
+<form id="chatbotForm" method="POST">
+    <label for="question">Pergunta:</label>
+    <input type="text" id="question" name="question">
+    <button type="submit">Enviar</button>
+</form>
+<div id="response"></div>
+</body>
+</html>

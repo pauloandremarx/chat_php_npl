@@ -1,0 +1,858 @@
+Loaded Question: Pergunta
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: Palavras-chave
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Resposta
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.
+Loaded Question: Qual é a sua cor favorita?
+Loaded Question: Qual é o seu animal favorito?
+Loaded Question: Palavras-chave
+Loaded Question: cor, favorita
+Loaded Question: animal, favorito
+Loaded Question: Resposta
+Loaded Question: Minha cor favorita é azul.
+Loaded Question: Meu animal favorito é o cachorro.
+Loaded Keyword: cor, favorita
+Loaded Keyword: animal, favorito
+Loaded Keyword: Resposta
+Loaded Keyword: Minha cor favorita é azul.
+Loaded Keyword: Meu animal favorito é o cachorro.
+Loaded Answer: Minha cor favorita é azul.
+Loaded Answer: Meu animal favorito é o cachorro.

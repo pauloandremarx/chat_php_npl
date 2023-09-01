@@ -1,0 +1,10 @@
+version: '3'
+services:
+    php_new:  
+        image: "php:7.4-apache"
+        container_name: my_chatbot
+        restart: always
+        volumes:
+            - .:/var/www/html
+        ports:
+            - "8888:80"
